@@ -1,1 +1,1 @@
-[Мое резюме](https://Gaskard.github.io/rsschool-cv/cv)
+[CV](https://Gaskard.github.io/rsschool-cv/)
